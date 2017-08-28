@@ -260,7 +260,7 @@ input.main-button,
 }
 @include transition(all 250ms ease-in-out);
 .site-header .logo {
-  margin-top: 42px;
+  margin-top: 32px;
 }
 .site-header.scrolled {
   background: white;
